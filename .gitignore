@@ -1,0 +1,10 @@
+# 签名密钥与签名中间产物（绝不入库）
+*.keystore
+*.jks
+*.idsig
+
+# 归档与构建过程文件
+*.zip
+kjq35-*.apk
+decoded/
+_apkwork*/

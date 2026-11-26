@@ -9,6 +9,10 @@
 - 复制后从屏幕下方提示「请保护好自己的凭证」
 - 需要先在 App 内登录；未登录时 Token 为空
 
+## 下载
+
+从 [Releases 页面](https://github.com/PaperKito/KuroBBS-TokenCopy/releases/latest) 下载 `库街区_3.5_去壳带Token复制.apk`。
+
 ## 安装
 
 1. 先卸载设备上已安装的库街区（官方版或旧改版）——签名不同，无法直接覆盖安装。
