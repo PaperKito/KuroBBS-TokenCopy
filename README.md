@@ -11,7 +11,7 @@
 
 ## 下载
 
-从 [Releases 页面](https://github.com/PaperKito/KuroBBS-TokenCopy/releases/latest) 下载 `库街区_3.5_去壳带Token复制.apk`。
+从 [Releases 页面](https://github.com/PaperKito/KuroBBS-TokenCopy/releases/latest) 下载 `kurobbs-3.5-tokencopy.apk`（约 43 MB）。
 
 ## 安装
 
