@@ -3,12 +3,12 @@
 ## 功能
 - 设置页新增「用户凭证」入口，进入后可复制Token和Did
 ## 下载
-从 [Releases 页面](https://github.com/PaperKito/KuroBBS-TokenCopy/releases/latest) 下载 `kurobbs-3.5-tokencopy.apk`（约 43 MB）。
-## 安装
-1. 先卸载设备上已安装的库街区（官方版或旧改版）——签名不同，无法直接覆盖安装。
+从 [Releases](https://github.com/PaperKito/KuroBBS-TokenCopy/releases) 下载最新版本
+1. 先卸载设备上已安装的库街区（官方版或旧改版）
 2. 安装本仓库的 APK。
 ## 说明
 - 凭据读取自 App 自身私有数据，**不需要 root**。
 - 本仓库只提供成品 APK，不包含重签密钥、构建脚本与中间产物。
+- 由于签名不同，将无法正常进行版本更新
 ## 免责声明
 本项目仅用于个人学习与研究。库街区商标、版权及相关内容归原权利人所有。使用修改版 App 可能违反相关服务条款，由此产生的账号风险由使用者自行承担。请勿用于商业或非法用途。
